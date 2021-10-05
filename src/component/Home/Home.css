@@ -1,0 +1,49 @@
+.home{
+    margin-top:15px;
+   
+}
+.service-card{
+    border: 2px solid #2B4EFF;
+    border-radius: 15px;
+    background-color:white;
+    line-height: 60px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.service-card:hover{
+  background-color:rgb(237,238,243);
+  border:2px solid orange;
+}
+.home-img{
+    border-radius: 20px;
+    padding: 10px;
+}
+.checked {
+    color: orange;
+  }
+  .card-title{
+    color: #0E1133;
+  }
+  .card-title:hover,card-cat{
+    color: #2B4EFF;
+  }
+  .card-cat{
+    color: #2B4EFF;
+  }
+  .btn{
+    padding:10px 20px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .btn:hover{
+    background-color: orange;
+    color: #FFFF;
+  }
+  .lesson-p{
+    color:#2B4EFF;
+    font-size: 20px;
+  }
+  .slider-margin{
+    margin-top:80px;
+}
+  

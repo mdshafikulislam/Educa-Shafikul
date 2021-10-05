@@ -1,0 +1,20 @@
+.found{
+     background-color:rgb(237,238,243);
+     text-align: center;
+}
+.notFound{
+    font-size:300px;
+    color:#1f3dd1;
+}
+.notFoundSpan{
+    font-size:200px;
+    color: orange;
+}
+.notFoundPage{
+    font-size:60px;
+    color: orange;
+    padding:20px;
+}
+.backBtn:hover{
+    color:white;
+}

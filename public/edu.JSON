@@ -1,0 +1,110 @@
+[
+    {
+        "key": "B002RL8IYK1",
+        "category": "Development",
+        "name": "Bases Matematicas dios Algebra Ecuacion",
+        "teacher": "Jim Séchen",
+        "lesson": 36,
+        "star": 3,
+        "starCount": 3245,
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/details/course-details-1.jpg",
+        "price": 7768.36
+       
+    },
+    {
+        "key": "B002RL8IYK2",
+        "category": "Mechanical",
+        "name": "Fundamentals of music theory Learn new",
+        "teacher": "Barry Tone",
+        "lesson": 36,
+        "star": 3,
+        "starCount": 3245,
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-2.jpg",
+        "price": 8000.36
+       
+    },
+    {
+        "key": "B002RL8IYK3",
+        "category": "Development",
+        "name": "Become a product Manager learn the skills & job.",
+        "teacher": "Samuel Serif",
+        "lesson": 36,
+        "star": 3,
+        "starCount": 3245,
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-1.jpg",
+        "price": 7700.36
+       
+    },
+    {
+        "key": "B002RL8IYK4",
+        "category": "Development",
+        "name": "Strategy law and organization Foundation",
+        "teacher": "Elon Gated",
+        "lesson": 30,
+        "star": 3,
+        "starCount": 3245,
+        "img": "https://themepure.net/template/educal/educal/assets/img/course/course-3.jpg",
+        "price": 3468.36
+       
+    },
+    {
+            "key": "B002RL8IYK5",
+            "category": "Marketing",
+            "name": "The business Intelligence analyst Course 2022",
+            "teacher": "Eleanor Fant",
+            "lesson": 22,
+            "star": 4.5,
+            "starCount": 3245,
+            "img": "https://themepure.net/template/educal/educal/assets/img/course/course-4.jpg",
+            "price": 748.36
+           
+        },
+        {
+            "key": "B002RL8IYK6",
+            "category": "Marketimg",
+            "name": "The business Intelligence analyst Course 2022",
+            "teacher": "Brian Cumin",
+            "lesson": 36,
+            "star": 4.6,
+            "starCount": 345,
+            "img": "https://themepure.net/template/educal/educal/assets/img/course/course-8.jpg",
+            "price": 4500.36
+           
+        },
+        {
+            "key": "B002RL8IYK7",
+            "category": "Audio & Music",
+            "name": "Build your media and Public presence",
+            "teacher": "Pelican Steve",
+            "lesson": 18,
+            "star": 3.8,
+            "starCount": 37,
+            "img": "https://themepure.net/template/educal/educal/assets/img/course/course-5.jpg",
+            "price": 990.36
+           
+        },
+        {
+            "key": "B002RL8IYK8",
+            "category": "UX Design",
+            "name": "Creative writing through Storytelling",
+            "teacher": "Shahnewaz Sakil",
+            "lesson": 13,
+            "star": 4.9,
+            "starCount": 32,
+            "img": "https://themepure.net/template/educal/educal/assets/img/course/course-6.jpg",
+            "price": 348.36
+           
+        },
+        {
+            "key": "B002RL8IYK9",
+            "category": "UX Design",
+            "name": "Creative writing through Storytelling",
+            "teacher": "Hilary Ouse",
+            "lesson": 25,
+            "star": 4.3,
+            "starCount": 3245,
+            "img": "https://themepure.net/template/educal/educal/assets/img/course/course-9.jpg",
+            "price": 300.36
+           
+        }
+    ]

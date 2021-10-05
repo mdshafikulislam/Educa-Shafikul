@@ -1,0 +1,37 @@
+.footer{
+    background-color:#0E1133;
+    color:#FFFF;
+}
+ul li{
+    list-style-type:none;
+}
+.selectedContact{
+    color: #a1a2ab;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 16px;
+}
+.selectedContact:hover{
+    color:#2B4EFF;
+}
+.heading{
+    color:white;
+    padding:10px;
+    font-weight: bold;
+}
+.span{
+    font-size:14px;
+    color:white;
+}
+.pra-text{
+    font-size:16px;
+    margin-top:50px;
+}
+.text-s{
+    color: orange;
+}
+.footer-bd{
+    border-top:1px solid orange;
+    padding:20px;
+    align-items: center;
+}

@@ -1,0 +1,20 @@
+.team-headind{
+    color: #2B4EFF;
+    padding:10px;
+}
+.team-card{
+    border:2px solid #2B4EFF;
+    align-items: center;
+    text-align: center;
+    margin-top:30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    padding:10px;
+}
+.team-founder{
+    color: orange;
+}
+.team-card:hover{
+    background-color:#0E1133;
+    border:2px solid orange;
+}

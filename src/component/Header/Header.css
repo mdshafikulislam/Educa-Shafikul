@@ -1,0 +1,17 @@
+.navbar{
+    background-color:rgb(237,238,243);
+    margin-bottom: 10px;
+}
+.selected{
+    color: #232325;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.selected:hover{
+    color:#2B4EFF;
+}
+.active{
+    color:#2B4EFF;
+}
