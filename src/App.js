@@ -1,4 +1,5 @@
 // import logo from './logo.svg';
+import { GoogleAuthProvider ,getAuth, signInWithPopup,} from "firebase/auth";
 import { BrowserRouter as Router,Switch,Route } from "react-router-dom";
 import './App.css';
 import About from "./component/About/About";
@@ -10,8 +11,13 @@ import Contacts from "./component/Contacts/Contacts";
 import Home from "./component/Home/Home";
 import Team from "./component/Team/Team";
 import Footer from "./component/Footer/Footer";
+import initializeAuthentication from "./Firebase/firebaseInitialize";
 
 function App() {
+
+  initializeAuthentication();
+  const provider = new GoogleAuthProvider();
+
   return (
     <div className="App">
     <Router>
