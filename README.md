@@ -13,5 +13,3 @@
 ## Tagline: Limitless learning guaranteed
 
 ## There is my live site link : [educa-shafikul](https://educa-shafikul.netlify.app/)
-
-## Git Link :(https://github.com/ProgrammingHeroWC4/review-website-mdshafikulislam)
