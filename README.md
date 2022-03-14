@@ -8,7 +8,7 @@
 
 ## Also, writing a course description can take a long time. But when you have a step-by-step process, it becomes far easier and faster. I wrote this course description in less than 10 minutes.
 
-## Keyword : Bootstrap,Router,React,js,Fontawesome,Responsive
+## Keyword : Bootstrap,Router,ReactJs,Fontawesome,Responsive
 
 ## Tagline: Limitless learning guaranteed
 
