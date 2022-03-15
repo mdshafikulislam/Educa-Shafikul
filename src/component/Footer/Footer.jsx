@@ -6,6 +6,7 @@ import './Footer.css';
 
 const Footer = () => {
     return (
+//         footer
         <div className="footer">
         <div className="container">
            <div className="row">
